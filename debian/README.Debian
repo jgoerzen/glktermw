@@ -1,6 +1,13 @@
 glktermw for Debian
 ------------------
 
-<possible notes regarding this package - if none, delete this file>
+glk libraries are normally statically-linked into programs.  Using programs
+expect to find a .a file, some .h files, and a set of definitions for "make".
+
+Appropriate settings for compiling programs to use glktermw are:
+
+GLKINCLUDEDIR = /usr/include/glktermw
+GLKLIBDIR = /usr/lib
+GLKMAKEFILE = Make.glktermw
 
  -- John Goerzen <jgoerzen@complete.org>  Sat, 12 Oct 2019 15:32:22 -0500

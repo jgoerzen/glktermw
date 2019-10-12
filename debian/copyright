@@ -1,15 +1,17 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: glktermw
-Source: <url://example.com>
+Source: <https://www.eblong.com/zarf/glk/index.html>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
-License: <special license>
- <Put the license of the package here indented by 1 space>
- <This follows the format of Description: lines in control file>
- .
- <Including paragraphs>
+Copyright: 1998-2012 Andrew Plotkin <erkyrath@eblong.com>
+           Alexander Beels <arb28@columbia.edu>
+License: The source code in this package is copyright 1998-2011 by Andrew Plotkin. You
+ may copy and distribute it freely, by any means and under any conditions,
+ as long as the code and documentation is not changed. You may also
+ incorporate this code into your own program and distribute that, or modify
+ this code and use and distribute the modified version, as long as you retain
+ a notice in your program or documentation which mentions my name and the
+ URL shown above.
 
 # If you want to use GPL v2 or later for the /debian/* files use 
 # the following clauses, or change it to suit. Delete these two lines
@@ -31,8 +33,3 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid picking licenses with terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
