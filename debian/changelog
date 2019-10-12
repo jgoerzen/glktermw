@@ -1,4 +1,11 @@
-glktermw (1.0.4-1) unstable; urgency=medium
+glktermw (1.0.4-2) unstable; urgency=low
+
+  * Add additional .h files.  glulxe requires them, even though
+    the documentation with glktermw doesn't imply they're needed.
+
+ -- John Goerzen <jgoerzen@complete.org>  Sat, 12 Oct 2019 16:28:03 -0500
+
+glktermw (1.0.4-1) unstable; urgency=low
 
   * Initial release (Closes: #942240)
 

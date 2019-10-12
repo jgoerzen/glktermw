@@ -1,4 +1,3 @@
-glk.h /usr/include/glktermw/
-glkstart.h /usr/include/glktermw/
+*.h /usr/include/glktermw/
 Make.glktermw /usr/include/glktermw/
 libglktermw.a /usr/lib/
