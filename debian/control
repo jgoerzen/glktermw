@@ -15,6 +15,7 @@ Multi-Arch: same
 Depends: ${misc:Depends}
 Description: Curses-based interface library for interactive fiction
  Glk is a device-independent interface specification intended primarily for
- interactive fiction implementations.  This library provides an ncurses-based glk
- interface and includes Unicode support.  It is used by packages such as glulxe.
+ interactive fiction implementations.  This library provides an ncurses-based
+ glk interface and includes Unicode support.  It is used by packages such
+ as glulxe.
 
