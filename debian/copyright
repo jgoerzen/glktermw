@@ -5,7 +5,8 @@ Source: <https://www.eblong.com/zarf/glk/index.html>
 Files: *
 Copyright: 1998-2012 Andrew Plotkin <erkyrath@eblong.com>
            Alexander Beels <arb28@columbia.edu>
-License: The source code in this package is copyright 1998-2011 by Andrew Plotkin. You
+License: GLK
+ The source code in this package is copyright 1998-2011 by Andrew Plotkin. You
  may copy and distribute it freely, by any means and under any conditions,
  as long as the code and documentation is not changed. You may also
  incorporate this code into your own program and distribute that, or modify
