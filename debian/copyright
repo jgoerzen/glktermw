@@ -1,18 +1,11 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: glktermw
-Source: <https://www.eblong.com/zarf/glk/index.html>
+Source: <https://github.com/erkyrath/glkterm/tree/widechar>
 
 Files: *
-Copyright: 1998-2012 Andrew Plotkin <erkyrath@eblong.com>
+Copyright: 1998-2017 Andrew Plotkin <erkyrath@eblong.com>
            Alexander Beels <arb28@columbia.edu>
-License: GLK
- The source code in this package is copyright 1998-2011 by Andrew Plotkin. You
- may copy and distribute it freely, by any means and under any conditions,
- as long as the code and documentation is not changed. You may also
- incorporate this code into your own program and distribute that, or modify
- this code and use and distribute the modified version, as long as you retain
- a notice in your program or documentation which mentions my name and the
- URL shown above.
+License: Expat
 
 # If you want to use GPL v2 or later for the /debian/* files use 
 # the following clauses, or change it to suit. Delete these two lines

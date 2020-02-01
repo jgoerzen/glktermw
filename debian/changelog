@@ -1,3 +1,10 @@
+glktermw (1.0.4+git20200122-1) unstable; urgency=low
+
+  * New upstream release.  The author committed a fix to the license
+    to his git repository to make it DFSG-compatible.
+
+ -- John Goerzen <jgoerzen@complete.org>  Fri, 31 Jan 2020 20:06:38 -0600
+
 glktermw (1.0.4-2) unstable; urgency=low
 
   * Add additional .h files.  glulxe requires them, even though
