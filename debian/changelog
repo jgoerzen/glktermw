@@ -1,3 +1,9 @@
+glktermw (1.0.4+git20200122-2) unstable; urgency=low
+
+  * Remove comment from debian/copyright
+
+ -- John Goerzen <jgoerzen@complete.org>  Fri, 31 Jan 2020 20:34:16 -0600
+
 glktermw (1.0.4+git20200122-1) unstable; urgency=low
 
   * New upstream release.  The author committed a fix to the license
