@@ -1,7 +1,7 @@
 Source: glktermw
 Priority: optional
 Maintainer: John Goerzen <jgoerzen@complete.org>
-Build-Depends: debhelper (>= 11), libncurses-dev
+Build-Depends: debhelper-compat (= 11), libncurses-dev
 Standards-Version: 4.1.3
 Section: libs
 Homepage: https://www.eblong.com/zarf/glk/index.html
