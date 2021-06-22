@@ -18,4 +18,3 @@ Description: Curses-based interface library for interactive fiction
  interactive fiction implementations.  This library provides an ncurses-based
  glk interface and includes Unicode support.  It is used by packages such
  as glulxe.
-

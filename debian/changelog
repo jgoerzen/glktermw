@@ -1,3 +1,9 @@
+glktermw (1.0.4+git20200122-3) UNRELEASED; urgency=medium
+
+  * Trim trailing whitespace.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 22 Jun 2021 21:28:13 -0000
+
 glktermw (1.0.4+git20200122-2) unstable; urgency=low
 
   * Remove comment from debian/copyright
