@@ -1,7 +1,7 @@
 Source: glktermw
 Priority: optional
 Maintainer: John Goerzen <jgoerzen@complete.org>
-Build-Depends: debhelper (>= 11), libncurses-dev
+Build-Depends: debhelper-compat (= 11), libncurses-dev
 Standards-Version: 4.1.3
 Section: libs
 Homepage: https://www.eblong.com/zarf/glk/index.html
@@ -18,4 +18,3 @@ Description: Curses-based interface library for interactive fiction
  interactive fiction implementations.  This library provides an ncurses-based
  glk interface and includes Unicode support.  It is used by packages such
  as glulxe.
-
